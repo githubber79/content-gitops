@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: jrpamid/gitops-demo:v1.0.0
+        image: jrpamid/gitops-demo:v1.0.1
