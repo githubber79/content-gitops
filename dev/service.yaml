@@ -1,0 +1,13 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: hello-service
+  namespace: gitops-dev
+spec:
+  selector:
+    app: hello
+  ports:
+  - protocol: TCP
+    port: 8000
+    nodePort: 32321
+  type: NodePort
