@@ -1,0 +1,1 @@
+{"jobID":"7ee8ecc0-f03b-2508-12ff-063c708de394","spec":{"type":"policy","cause":{"Message":"","User":"jrpamid \u003cjrpamid@gmail.com\u003e"},"spec":{"gitops-prod:deployment/hello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
